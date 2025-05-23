@@ -1,7 +1,7 @@
 # Project Responsive Web Design using Bootstrap
-## Date: 20/05/2025
-## Name: JEEVITH A
-## Reg_No: 212223240059
+## Date: 23/05/2025
+## Name: HARISH S
+## Reg_No: 212224110022
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
